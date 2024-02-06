@@ -1,5 +1,5 @@
 import string
-
+#version1
 def strength_check(password):
     #Starting Value
     score = 0
